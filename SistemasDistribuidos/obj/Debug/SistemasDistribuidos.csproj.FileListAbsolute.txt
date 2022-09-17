@@ -1,0 +1,7 @@
+C:\Users\rafae\source\repos\SistemasDistribuidos\SistemasDistribuidos\bin\Debug\SistemasDistribuidos.exe.config
+C:\Users\rafae\source\repos\SistemasDistribuidos\SistemasDistribuidos\bin\Debug\SistemasDistribuidos.exe
+C:\Users\rafae\source\repos\SistemasDistribuidos\SistemasDistribuidos\bin\Debug\SistemasDistribuidos.pdb
+C:\Users\rafae\source\repos\SistemasDistribuidos\SistemasDistribuidos\obj\Debug\SistemasDistribuidos.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\SistemasDistribuidos\SistemasDistribuidos\obj\Debug\SistemasDistribuidos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\SistemasDistribuidos\SistemasDistribuidos\obj\Debug\SistemasDistribuidos.exe
+C:\Users\rafae\source\repos\SistemasDistribuidos\SistemasDistribuidos\obj\Debug\SistemasDistribuidos.pdb
